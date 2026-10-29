@@ -20,7 +20,7 @@ export default function SchoolLandingPage() {
       {/* Header */}
       <header className="fixed top-0 w-full bg-[#00008A] text-white z-50 shadow-lg">
         <nav className="container mx-auto px-4 py-4 flex justify-between items-center">
-          <div className="text-xl font-bold">Excellence Academy</div>
+          <div className="text-xl font-bold">Aplikasi Komputasi Awan Academy</div>
 
           {/* Desktop Navigation */}
           <ul className="hidden md:flex space-x-8">
@@ -111,7 +111,7 @@ export default function SchoolLandingPage() {
           <div className="max-w-4xl mx-auto">
             <h1 className="text-4xl md:text-6xl font-bold mb-6 text-shadow">Shaping Tomorrow's Leaders</h1>
             <p className="text-lg md:text-xl mb-8 max-w-2xl mx-auto">
-              Excellence Academy provides world-class education that empowers students to achieve their dreams and make
+              Aplikasi Komputasi Awan Academy provides world-class education that empowers students to achieve their dreams and make
               a positive impact on the world.
             </p>
             <div className="flex flex-col sm:flex-row gap-4 justify-center">
@@ -138,9 +138,9 @@ export default function SchoolLandingPage() {
         <div className="container mx-auto px-4">
           <div className="grid md:grid-cols-2 gap-12 items-center">
             <div>
-              <h2 className="text-3xl md:text-4xl font-bold text-[#00008A] mb-6">About Excellence Academy</h2>
+              <h2 className="text-3xl md:text-4xl font-bold text-[#00008A] mb-6">About Aplikasi Komputasi Awan Academy</h2>
               <p className="text-lg text-gray-600 mb-6">
-                For over 50 years, Excellence Academy has been at the forefront of educational innovation, nurturing
+                For over 50 years, Aplikasi Komputasi Awan Academy has been at the forefront of educational innovation, nurturing
                 young minds and preparing them for success in an ever-changing world.
               </p>
               <p className="text-lg text-gray-600 mb-8">
@@ -267,7 +267,7 @@ export default function SchoolLandingPage() {
                   <div>
                     <strong>Email:</strong>
                     <br />
-                    info@excellenceacademy.edu
+                    info@Aplikasi Komputasi Awanacademy.edu
                   </div>
                 </div>
                 <div className="flex items-start space-x-3">
@@ -342,7 +342,7 @@ export default function SchoolLandingPage() {
       {/* Footer */}
       <footer className="bg-[#000066] text-white text-center py-8">
         <div className="container mx-auto px-4">
-          <p>&copy; 2024 Excellence Academy. All rights reserved. | Empowering minds, shaping futures.</p>
+          <p>&copy; 2024 Aplikasi Komputasi Awan Academy. All rights reserved. | Empowering minds, shaping futures.</p>
         </div>
       </footer>
     </div>
